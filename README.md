@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sn0wcat&show_icons=true" alt="sn0wcat" /></p>
+<p align="center">
+<a href="https://twitter.com/sn0wcat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sn0wcat" height="20" width="20" /></a>
+</p>
 
 <!--
 **sn0wcat/sn0wcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
