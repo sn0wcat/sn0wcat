@@ -28,7 +28,8 @@ Have a look at Siemens [Open Source Manifesto](https://opensource.siemens.com/ma
 
 We are excited to announce the launch of our new [developer portal](https://developer.siemens.com)! With help of our developer portal, you can create powerful and innovative applications that take advantage of our API products. We're excited to see what you build!
 
-![image](https://github.com/sn0wcat/sn0wcat/assets/1426617/38bb330f-5650-4571-9a56-0d38b09ef309)
+![image](https://github.com/sn0wcat/sn0wcat/assets/1426617/f2fb150b-fcca-4e61-be8e-d58b91eaefb6)
+
 
 Our developer portal contains following resources:
 
