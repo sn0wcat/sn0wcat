@@ -24,7 +24,7 @@ Siemens has resolved to be an active and reliable member in the Open Source ecos
 
 Have a look at Siemens [Open Source Manifesto](https://opensource.siemens.com/manifesto/).
 
-### Siemens Developer Portal 
+### Siemens Xcelerator Developer Portal 
 
 We are excited to announce the launch of our new [developer portal](https://developer.siemens.com)! With help of our developer portal, you can create powerful and innovative applications that take advantage of our API products. We're excited to see what you build!
 
