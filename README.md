@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Principal Key Expert for Software Architecture at [Siemens](https://www.siemens.com).
+I am Distinguished Engineer at [Siemens](https://www.siemens.com).
 
 ## My GitHub Contributions
 
